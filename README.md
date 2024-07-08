@@ -5,7 +5,7 @@ Foi utlizado a arquitetura abaixo para concepção do projeto.
 
 Estilo arquitetural: Hexagonal
 
-Padrões de projetos: Services, Repository, DI, IoC, Acl, Docker e outros padrões.
+Conceitos utilizados: Services, Repository, DI, IoC, Acl, Docker e outros padrões.
 
 OBS: Portas 80, 8081, 3306 e 6379 precisam estar liberadas.
 
