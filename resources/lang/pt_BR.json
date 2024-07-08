@@ -1,0 +1,21 @@
+{
+    "Title": "Título",
+    "Summary": "Resumo",
+    "News": "Notícias",
+    "Save": "Salvar",
+    "News Create": "Cadastrar notícias",
+    "Access": "Acessar",
+    "View": "Visualizar",
+    "Category Create": "Cadastrar categoria",
+    "Categories": "Categorias",
+    "Category": "Categoria",
+    "Select Category": "Selecione a categoria",
+    "Name": "Nome",
+    "Description": "Descrição",
+    "Actions" : "Ações",
+    "Profile": "Perfil",
+    "Log Out": "Deslogar",
+    "Search": "Buscar",
+    "SEARCH_NOT_FOUND": "Pesquisa nao retornou resultados",
+    "ERROR_DELETE" : "Erro ao deletar registro!"
+}
